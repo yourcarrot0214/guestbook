@@ -10,7 +10,7 @@ function LeftMenu(props) {
         <a href="/">Home</a>
       </Menu.Item>
       <Menu.Item key="guestbook">
-        <a href="/">GuestBook</a>
+        <a href="/guestbook">GuestBook</a>
       </Menu.Item>
     </Menu>
   );
